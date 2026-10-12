@@ -1,0 +1,6 @@
+{
+  "name": "Little Genius",
+  "description": "Bilingual (English & Urdu) interactive learning app for kids aged 4-8 with letters, numbers, science lessons, educational games, and audio pronunciation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
